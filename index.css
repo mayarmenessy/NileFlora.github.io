@@ -1,0 +1,245 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-desktop1 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-image2 {
+  top: 0px;
+  left: -1px;
+  width: 1324px;
+  height: 1024px;
+  position: absolute;
+}
+.desktop1-text {
+  top: 397px;
+  left: 285px;
+  color: rgba(0, 0, 0, 1);
+  width: 823px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-de-watermark2 {
+  top: 6px;
+  left: 0px;
+  width: 162px;
+  height: 93px;
+  position: absolute;
+}
+.desktop1-component3 {
+  top: 12px;
+  left: 732px;
+  width: 530px;
+  height: 47.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-text02 {
+  top: 14px;
+  left: 367px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text04 {
+  top: 15px;
+  left: 164px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-component2 {
+  top: 11px;
+  left: -53px;
+  width: 148px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-text06 {
+  top: 5.557894706726074px;
+  left: 28.59661102294922px;
+  color: rgba(247, 28, 28, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-line1 {
+  top: 38.9052619934082px;
+  left: 148px;
+  width: 145px;
+  height: 1px;
+  position: absolute;
+}
+.desktop1-line3 {
+  top: 0px;
+  left: 148px;
+  width: 145px;
+  height: 1px;
+  position: absolute;
+}
+.desktop1-line2 {
+  top: 41.68421173095703px;
+  left: 145.4915313720703px;
+  width: 42px;
+  height: 1px;
+  position: absolute;
+}
+.desktop1-line4 {
+  top: 44px;
+  left: 0px;
+  width: 44px;
+  height: 1px;
+  position: absolute;
+}
+.desktop1-text08 {
+  top: 26px;
+  left: 1220px;
+  color: rgba(0, 0, 0, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-component1 {
+  top: 647px;
+  left: 518px;
+  width: 286px;
+  height: 83px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-frame3 {
+  top: 0px;
+  left: 0px;
+  width: 286px;
+  height: 83px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-frame31 {
+  top: 0px;
+  left: 0px;
+  width: 286px;
+  height: 83px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(53, 17, 17, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 25px;
+  background-color: rgba(235, 236, 242, 1);
+}
+.desktop1-text10 {
+  top: 470px;
+  left: 201px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-link {
+  display: contents;
+}
+.desktop1-facebook {
+  top: 955px;
+  left: 1176px;
+  width: 69px;
+  height: 69px;
+  position: absolute;
+}
+.desktop1-link1 {
+  display: contents;
+}
+.desktop1-tik-tok {
+  top: 955px;
+  left: 1249px;
+  width: 74px;
+  height: 69px;
+  position: absolute;
+  border-radius: 50px;
+}
+.desktop1-text15 {
+  top: 665px;
+  left: 558px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
